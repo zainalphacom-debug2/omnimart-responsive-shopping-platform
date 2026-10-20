@@ -1,0 +1,6 @@
+{
+  "name": "OMNIMART — Your World. One Cart.",
+  "description": "World-class virtual shopping mall & marketplace featuring realistic simulated shopping, live 30-second delivery tracking, profile & address management, and thousands of curated products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
